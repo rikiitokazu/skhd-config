@@ -1,1 +1,3 @@
-# skhd-config
+# [skhd](https://github.com/koekeishiya/skhd) configurations
+
+
